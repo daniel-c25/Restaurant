@@ -1,4 +1,4 @@
-package cameriere;
+package dipendente.cameriere;
 
 public class Cameriere {
 

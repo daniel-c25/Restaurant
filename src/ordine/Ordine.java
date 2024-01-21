@@ -1,5 +1,5 @@
 package ordine;
 
-public class Ordine {
+public abstract class Ordine {
 
 }
